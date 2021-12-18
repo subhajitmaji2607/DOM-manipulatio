@@ -1,0 +1,2 @@
+DOM : DOM stands for Document Object Model,Structured representation of HTML Documents allows 
+JavaScript To Access HTML Elements And Styles to manipulate them.
